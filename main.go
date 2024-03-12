@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Web-go/config"
+	config "github.com/kanugi/rest-api-assignment2/app"
 
 	"github.com/kanugi/rest-api-assignment2/controllers"
 
